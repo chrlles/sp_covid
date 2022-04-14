@@ -2,5 +2,11 @@
  Análise sobre o Coronavírus no município de São Paulo.<br>
  Pessoas vacinadas,  números de casos e óbitos. 
  <hr>
+ Mudanças:
+ 
+ - Pandas datetime pd.to_datetime( )
+ - ax.spines[]
+
+
  
 fonte: https://vacinaja.sp.gov.br/vacinometro/?utm_source=portal&utm_medium=banner-topo&utm_campaign=Vacinometro-Municipios
