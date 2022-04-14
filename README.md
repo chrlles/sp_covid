@@ -2,10 +2,12 @@
  Análise sobre o Coronavírus no município de São Paulo.<br>
  Pessoas vacinadas,  números de casos e óbitos. 
  <hr>
+ 
  Mudanças:
  
- - Pandas datetime pd.to_datetime( )
- - ax.spines[]
+- Tirei dois gráficos que não tinham informações importantes;
+- ax.spines[] documentação / Um ajuste feito no gráfico que faz muita diferença;
+- Pandas datetime pd.to_datetime( ) Mudar o formato da data.  __IMPORTANTE!!!__
 
 
  
