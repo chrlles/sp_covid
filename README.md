@@ -6,7 +6,7 @@
  Mudanças:
  
 - Tirei dois gráficos que não tinham informações importantes;
-- ax.spines[] documentação / Um ajuste feito no gráfico que faz muita diferença;
+- ax.spines[ ] documentação / Um ajuste feito no gráfico que faz muita diferença;
 - Pandas datetime pd.to_datetime( ) Mudar o formato da data.  __IMPORTANTE!!!__
 
 
